@@ -105,5 +105,13 @@ public:
             }
         }
     };
+
+    int main()
+{
+    LinkedList Mhs;
+    int nim;
+    char ch;
+
+
     
     
